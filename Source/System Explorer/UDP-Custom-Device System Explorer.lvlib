@@ -51,7 +51,11 @@
 					<Item Name="RxChannel - Update Rx Channel Order.vi" Type="VI" URL="../API/Channels/Receive/RxChannel - Update Rx Channel Order.vi"/>
 				</Item>
 				<Item Name="Transmit" Type="Folder">
+					<Property Name="NI.SortType" Type="Int">3</Property>
 					<Item Name="TxChannel - Create Channel Configuration.vi" Type="VI" URL="../API/Channels/Transmit/TxChannel - Create Channel Configuration.vi"/>
+					<Item Name="TxChannel - Get Tx Channels.vi" Type="VI" URL="../API/Channels/Transmit/TxChannel - Get Tx Channels.vi"/>
+					<Item Name="TxChannel - Remove Tx Channels.vi" Type="VI" URL="../API/Channels/Transmit/TxChannel - Remove Tx Channels.vi"/>
+					<Item Name="TxChannel - Update Tx Channel Order.vi" Type="VI" URL="../API/Channels/Transmit/TxChannel - Update Tx Channel Order.vi"/>
 				</Item>
 			</Item>
 			<Item Name="Help" Type="Folder">
@@ -242,6 +246,7 @@
 					<Item Name="RTM - Apply Rx Configuration.vi" Type="VI" URL="../RTMs/RTM - Apply Rx Configuration.vi"/>
 					<Item Name="RTM - Apply Tx Configuration Dependency.vi" Type="VI" URL="../RTMs/RTM - Apply Tx Configuration Dependency.vi"/>
 					<Item Name="RTM - Apply Tx Configuration.vi" Type="VI" URL="../RTMs/RTM - Apply Tx Configuration.vi"/>
+					<Item Name="RTM - Tx Create Channels.vi" Type="VI" URL="../RTMs/RTM - Tx Create Channels.vi"/>
 				</Item>
 				<Item Name="Main" Type="Folder">
 					<Item Name="RTM - Export Configuration.vi" Type="VI" URL="../RTMs/RTM - Export Configuration.vi"/>
