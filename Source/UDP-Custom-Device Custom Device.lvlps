@@ -1,5 +1,5 @@
 [ProjectWindow_Data]
-ProjectExplorer.ClassicPosition[String] = "120,-1903,961,-1412"
+ProjectExplorer.ClassicPosition[String] = "88,-1863,929,-1372"
 
 [AB_Cache_{4EA7F6CA-0FE2-408B-80F7-1E24293F26DB}]
 Cache_Path[Path] Line0001 = "/C/Users/jamesv/AppData/Local/Temp/AB_Cache_{4EA7F"
@@ -16,14 +16,6 @@ Cache_Path[Path] Line0002 = "7DF-882F-4506-BE35-A5DF5F673C18}.txt"
 [AB_Cache_{F7A753CB-5AA6-49B3-83A7-C0336FA31893}]
 Cache_Path[Path] Line0001 = "/C/Users/jamesv/AppData/Local/Temp/AB_Cache_{F7A75"
 Cache_Path[Path] Line0002 = "3CB-5AA6-49B3-83A7-C0336FA31893}.txt"
-
-[AB_Cache_{F7E936A1-C50B-4217-AC2B-A4DA3629CD4B}]
-Cache_Path[Path] Line0001 = "/C/Users/faltoe/AppData/Local/Temp/AB_Cache_{F7E93"
-Cache_Path[Path] Line0002 = "6A1-C50B-4217-AC2B-A4DA3629CD4B}.txt"
-
-[AB_Cache_{E8035317-FDF9-4FC1-9EF0-1450E8CAE472}]
-Cache_Path[Path] Line0001 = "/C/Users/faltoe/AppData/Local/Temp/AB_Cache_{E8035"
-Cache_Path[Path] Line0002 = "317-FDF9-4FC1-9EF0-1450E8CAE472}.txt"
 
 [AB_Cache_{BDB37E78-1B48-4DD8-B51B-9DFE56743A02}]
 Cache_Path[Path] Line0001 = "/C/Users/faltoe/AppData/Local/Temp/AB_Cache_{BDB37"
@@ -48,4 +40,12 @@ Cache_Path[Path] Line0002 = "89D-B571-426F-BFD1-1B015D4319A2}.txt"
 [AB_Cache_{E24CF77A-EDD5-435E-91DE-CAC6522BEA2A}]
 Cache_Path[Path] Line0001 = "/C/Users/faltoe/AppData/Local/Temp/AB_Cache_{E24CF"
 Cache_Path[Path] Line0002 = "77A-EDD5-435E-91DE-CAC6522BEA2A}.txt"
+
+[AB_Cache_{F7E936A1-C50B-4217-AC2B-A4DA3629CD4B}]
+Cache_Path[Path] Line0001 = "/C/Users/faltoe/AppData/Local/Temp/AB_Cache_{F7E93"
+Cache_Path[Path] Line0002 = "6A1-C50B-4217-AC2B-A4DA3629CD4B}.txt"
+
+[AB_Cache_{E8035317-FDF9-4FC1-9EF0-1450E8CAE472}]
+Cache_Path[Path] Line0001 = "/C/Users/faltoe/AppData/Local/Temp/AB_Cache_{E8035"
+Cache_Path[Path] Line0002 = "317-FDF9-4FC1-9EF0-1450E8CAE472}.txt"
 
