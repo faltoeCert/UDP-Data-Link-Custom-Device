@@ -27,6 +27,8 @@
 		<Item Name="Write Endianness.vi" Type="VI" URL="../Packets/Write Endianness.vi"/>
 	</Item>
 	<Item Name="Header Info" Type="Folder">
+		<Item Name="Read Custom Header Info.vi" Type="VI" URL="../Packets/Read Custom Header Info.vi"/>
+		<Item Name="Write Custom Header Info.vi" Type="VI" URL="../Packets/Write Custom Header Info.vi"/>
 		<Item Name="Read Header Info.vi" Type="VI" URL="../Packets/Read Header Info.vi"/>
 		<Item Name="Write Header Info.vi" Type="VI" URL="../Packets/Write Header Info.vi"/>
 	</Item>

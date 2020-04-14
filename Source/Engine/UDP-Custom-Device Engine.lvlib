@@ -169,6 +169,7 @@
 				<Item Name="Run Tx - Check Dynamic Port.vi" Type="VI" URL="../Run/Transmit/Run Tx - Check Dynamic Port.vi"/>
 				<Item Name="Run Tx - Handle Transmit Option.vi" Type="VI" URL="../Run/Transmit/Run Tx - Handle Transmit Option.vi"/>
 				<Item Name="Run Tx - Echo Transmit.vi" Type="VI" URL="../Run/Transmit/Run Tx - Echo Transmit.vi"/>
+				<Item Name="Run Tx - Handle Custom Header.vi" Type="VI" URL="../Run/Transmit/Run Tx - Handle Custom Header.vi"/>
 				<Item Name="Run Tx - Loop Delay.vi" Type="VI" URL="../Run/Transmit/Run Tx - Loop Delay.vi"/>
 				<Item Name="Run Tx - Handle Port Tx Check.vi" Type="VI" URL="../Run/Transmit/Run Tx - Handle Port Tx Check.vi"/>
 				<Item Name="Run Tx - Mirror Transmit.vi" Type="VI" URL="../Run/Transmit/Run Tx - Mirror Transmit.vi"/>

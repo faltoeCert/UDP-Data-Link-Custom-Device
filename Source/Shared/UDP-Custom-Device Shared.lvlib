@@ -35,9 +35,13 @@
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Shared" Type="Folder">
 		<Item Name="Types" Type="Folder">
+			<Item Name="Project Specific" Type="Folder">
+				<Item Name="VHO - Custom Header Logic.ctl" Type="VI" URL="../Types/ProjectSpecific/Vho/VHO - Custom Header Logic.ctl"/>
+			</Item>
 			<Item Name="Compiled.Settings.ctl" Type="VI" URL="../Compiled.Settings.ctl"/>
 			<Item Name="Shared - Buffered.PacketInfo.ctl" Type="VI" URL="../Types/Shared - Buffered.PacketInfo.ctl"/>
 			<Item Name="Shared - Channel Data Type.ctl" Type="VI" URL="../Types/Shared - Channel Data Type.ctl"/>
+			<Item Name="Shared - Custom Header.ctl" Type="VI" URL="../Types/Shared - Custom Header.ctl"/>
 			<Item Name="Shared - Duplex Settings.ctl" Type="VI" URL="../Types/Shared - Duplex Settings.ctl"/>
 			<Item Name="Shared - Header Details.ctl" Type="VI" URL="../Types/Shared - Header Details.ctl"/>
 			<Item Name="Shared - New Data Options.ctl" Type="VI" URL="../Types/Shared - New Data Options.ctl"/>
